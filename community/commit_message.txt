@@ -1,13 +1,11 @@
-Sync: +499 MetaMask, +77 ScamSniffer, +47 Polkadot, +47 Codeesura, +75 OpenPhish, +0 PhishDestroy, +1 SPMedia_DetectedURLs, +47 Enkrypt_Blacklist
+Sync: +530 MetaMask, +84 ScamSniffer, +54 Polkadot, +55 Codeesura, +4 OpenPhish, +54 Enkrypt_Blacklist
 
-Total domains: 731292
+Total domains: 731906
 
 Changes:
-- MetaMask: +499
-- ScamSniffer: +77
-- Polkadot: +47
-- Codeesura: +47
-- OpenPhish: +75
-- PhishDestroy: +0
-- SPMedia_DetectedURLs: +1
-- Enkrypt_Blacklist: +47
+- MetaMask: +530
+- ScamSniffer: +84
+- Polkadot: +54
+- Codeesura: +55
+- OpenPhish: +4
+- Enkrypt_Blacklist: +54
