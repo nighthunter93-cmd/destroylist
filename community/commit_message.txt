@@ -1,12 +1,10 @@
-Sync: +1374 MetaMask, +97 ScamSniffer, +1 Polkadot, +36 OpenPhish, +0 PhishDestroy, +1369 SEAL, +1 Enkrypt_Blacklist
+Sync: +580 MetaMask, +109 ScamSniffer, +13 OpenPhish, +0 PhishDestroy, +577 SEAL
 
-Total domains: 756846
+Total domains: 757506
 
 Changes:
-- MetaMask: +1374
-- ScamSniffer: +97
-- Polkadot: +1
-- OpenPhish: +36
+- MetaMask: +580
+- ScamSniffer: +109
+- OpenPhish: +13
 - PhishDestroy: +0
-- SEAL: +1369
-- Enkrypt_Blacklist: +1
+- SEAL: +577
